@@ -1,2 +1,16 @@
-# GEAE-19-09-25
-Trabajo de realizar un sitio web de zonas turísticas de renombre de nuestra comunidad
+# GEAE-18-09-25-aprender-github
+
+# nombre del alubno y name:
+
+## Galindo Evan Alonso Escareño
+## EvanGalindo110
+
+# correo electronico:
+
+## 24308060610646@cetis61.edu.mx
+
+# grupo:
+
+## 3.D
+
+![alt text](READMI.jpeg)
